@@ -13,7 +13,7 @@ gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
 gem 'rake'
 gem 'rdiscount', '>=2.2.0.1'
-gem 'rubocop', group: :test
+gem 'rubocop', '>= 0.82.0', group: :test
 
 
 # All of this is for Slate / middleman
