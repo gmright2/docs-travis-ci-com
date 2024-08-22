@@ -183,7 +183,8 @@ GEM
     redcarpet (3.5.0)
     ref (2.0.0)
     regstry (1.0.15)
-    rexml (3.2.4)
+    rexml (3.3.6)
+      strscan
     rouge (3.19.0)
     rubocop (0.82.0)
       jaro_winkler (~> 1.5.1)
@@ -200,6 +201,7 @@ GEM
     sassc (2.3.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    strscan (3.1.0)
     temple (0.8.2)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
